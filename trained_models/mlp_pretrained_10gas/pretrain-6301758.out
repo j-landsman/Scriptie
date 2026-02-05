@@ -1,0 +1,312 @@
+10 gas
+Epoch 1/200 - Train Loss: 0.015727, Val Loss: 0.010916
+  Validation loss improved; model saved.
+Epoch 2/200 - Train Loss: 0.007771, Val Loss: 0.006603
+  Validation loss improved; model saved.
+Epoch 3/200 - Train Loss: 0.004543, Val Loss: 0.001563
+  Validation loss improved; model saved.
+Epoch 4/200 - Train Loss: 0.002281, Val Loss: 0.001397
+  Validation loss improved; model saved.
+Epoch 5/200 - Train Loss: 0.001787, Val Loss: 0.001391
+  Validation loss improved; model saved.
+Epoch 6/200 - Train Loss: 0.001552, Val Loss: 0.001982
+  No improvement for 1 epoch(s).
+Epoch 7/200 - Train Loss: 0.001562, Val Loss: 0.002406
+  No improvement for 2 epoch(s).
+Epoch 8/200 - Train Loss: 0.001227, Val Loss: 0.001607
+  No improvement for 3 epoch(s).
+Epoch 9/200 - Train Loss: 0.001337, Val Loss: 0.000666
+  Validation loss improved; model saved.
+Epoch 10/200 - Train Loss: 0.001220, Val Loss: 0.000857
+  No improvement for 1 epoch(s).
+Epoch 11/200 - Train Loss: 0.001151, Val Loss: 0.003604
+  No improvement for 2 epoch(s).
+Epoch 12/200 - Train Loss: 0.001118, Val Loss: 0.001487
+  No improvement for 3 epoch(s).
+Epoch 13/200 - Train Loss: 0.001135, Val Loss: 0.000836
+  No improvement for 4 epoch(s).
+Epoch 14/200 - Train Loss: 0.001052, Val Loss: 0.000641
+  Validation loss improved; model saved.
+Epoch 15/200 - Train Loss: 0.001056, Val Loss: 0.001437
+  No improvement for 1 epoch(s).
+Epoch 16/200 - Train Loss: 0.001001, Val Loss: 0.000942
+  No improvement for 2 epoch(s).
+Epoch 17/200 - Train Loss: 0.001070, Val Loss: 0.000689
+  No improvement for 3 epoch(s).
+Epoch 18/200 - Train Loss: 0.000947, Val Loss: 0.000835
+  No improvement for 4 epoch(s).
+Epoch 19/200 - Train Loss: 0.000921, Val Loss: 0.000797
+  No improvement for 5 epoch(s).
+Epoch 20/200 - Train Loss: 0.000922, Val Loss: 0.000949
+  No improvement for 6 epoch(s).
+Epoch 21/200 - Train Loss: 0.000935, Val Loss: 0.000727
+  No improvement for 7 epoch(s).
+Epoch 22/200 - Train Loss: 0.000874, Val Loss: 0.001974
+  No improvement for 8 epoch(s).
+Epoch 23/200 - Train Loss: 0.000899, Val Loss: 0.000986
+  No improvement for 9 epoch(s).
+Epoch 24/200 - Train Loss: 0.000813, Val Loss: 0.000775
+  No improvement for 10 epoch(s).
+Epoch 25/200 - Train Loss: 0.000877, Val Loss: 0.001204
+  No improvement for 11 epoch(s).
+Epoch 26/200 - Train Loss: 0.000435, Val Loss: 0.000542
+  Validation loss improved; model saved.
+Epoch 27/200 - Train Loss: 0.000466, Val Loss: 0.000644
+  No improvement for 1 epoch(s).
+Epoch 28/200 - Train Loss: 0.000504, Val Loss: 0.000761
+  No improvement for 2 epoch(s).
+Epoch 29/200 - Train Loss: 0.000488, Val Loss: 0.000736
+  No improvement for 3 epoch(s).
+Epoch 30/200 - Train Loss: 0.000483, Val Loss: 0.000544
+  No improvement for 4 epoch(s).
+Epoch 31/200 - Train Loss: 0.000488, Val Loss: 0.000522
+  Validation loss improved; model saved.
+Epoch 32/200 - Train Loss: 0.000505, Val Loss: 0.000518
+  Validation loss improved; model saved.
+Epoch 33/200 - Train Loss: 0.000466, Val Loss: 0.001184
+  No improvement for 1 epoch(s).
+Epoch 34/200 - Train Loss: 0.000496, Val Loss: 0.000609
+  No improvement for 2 epoch(s).
+Epoch 35/200 - Train Loss: 0.000484, Val Loss: 0.000535
+  No improvement for 3 epoch(s).
+Epoch 36/200 - Train Loss: 0.000466, Val Loss: 0.000565
+  No improvement for 4 epoch(s).
+Epoch 37/200 - Train Loss: 0.000472, Val Loss: 0.000586
+  No improvement for 5 epoch(s).
+Epoch 38/200 - Train Loss: 0.000467, Val Loss: 0.000554
+  No improvement for 6 epoch(s).
+Epoch 39/200 - Train Loss: 0.000474, Val Loss: 0.000658
+  No improvement for 7 epoch(s).
+Epoch 40/200 - Train Loss: 0.000447, Val Loss: 0.000512
+  Validation loss improved; model saved.
+Epoch 41/200 - Train Loss: 0.000468, Val Loss: 0.000632
+  No improvement for 1 epoch(s).
+Epoch 42/200 - Train Loss: 0.000444, Val Loss: 0.000541
+  No improvement for 2 epoch(s).
+Epoch 43/200 - Train Loss: 0.000467, Val Loss: 0.000646
+  No improvement for 3 epoch(s).
+Epoch 44/200 - Train Loss: 0.000431, Val Loss: 0.001084
+  No improvement for 4 epoch(s).
+Epoch 45/200 - Train Loss: 0.000435, Val Loss: 0.000625
+  No improvement for 5 epoch(s).
+Epoch 46/200 - Train Loss: 0.000440, Val Loss: 0.000535
+  No improvement for 6 epoch(s).
+Epoch 47/200 - Train Loss: 0.000438, Val Loss: 0.000578
+  No improvement for 7 epoch(s).
+Epoch 48/200 - Train Loss: 0.000422, Val Loss: 0.000923
+  No improvement for 8 epoch(s).
+Epoch 49/200 - Train Loss: 0.000428, Val Loss: 0.000849
+  No improvement for 9 epoch(s).
+Epoch 50/200 - Train Loss: 0.000445, Val Loss: 0.000647
+  No improvement for 10 epoch(s).
+Epoch 51/200 - Train Loss: 0.000430, Val Loss: 0.001254
+  No improvement for 11 epoch(s).
+Epoch 52/200 - Train Loss: 0.000317, Val Loss: 0.000508
+  Validation loss improved; model saved.
+Epoch 53/200 - Train Loss: 0.000323, Val Loss: 0.000563
+  No improvement for 1 epoch(s).
+Epoch 54/200 - Train Loss: 0.000339, Val Loss: 0.000759
+  No improvement for 2 epoch(s).
+Epoch 55/200 - Train Loss: 0.000332, Val Loss: 0.000719
+  No improvement for 3 epoch(s).
+Epoch 56/200 - Train Loss: 0.000337, Val Loss: 0.000526
+  No improvement for 4 epoch(s).
+Epoch 57/200 - Train Loss: 0.000331, Val Loss: 0.000576
+  No improvement for 5 epoch(s).
+Epoch 58/200 - Train Loss: 0.000322, Val Loss: 0.000597
+  No improvement for 6 epoch(s).
+Epoch 59/200 - Train Loss: 0.000336, Val Loss: 0.000511
+  No improvement for 7 epoch(s).
+Epoch 60/200 - Train Loss: 0.000316, Val Loss: 0.000602
+  No improvement for 8 epoch(s).
+Epoch 61/200 - Train Loss: 0.000320, Val Loss: 0.000486
+  Validation loss improved; model saved.
+Epoch 62/200 - Train Loss: 0.000317, Val Loss: 0.000544
+  No improvement for 1 epoch(s).
+Epoch 63/200 - Train Loss: 0.000325, Val Loss: 0.000662
+  No improvement for 2 epoch(s).
+Epoch 64/200 - Train Loss: 0.000324, Val Loss: 0.000566
+  No improvement for 3 epoch(s).
+Epoch 65/200 - Train Loss: 0.000323, Val Loss: 0.000497
+  No improvement for 4 epoch(s).
+Epoch 66/200 - Train Loss: 0.000312, Val Loss: 0.000503
+  No improvement for 5 epoch(s).
+Epoch 67/200 - Train Loss: 0.000311, Val Loss: 0.000559
+  No improvement for 6 epoch(s).
+Epoch 68/200 - Train Loss: 0.000319, Val Loss: 0.000599
+  No improvement for 7 epoch(s).
+Epoch 69/200 - Train Loss: 0.000322, Val Loss: 0.000522
+  No improvement for 8 epoch(s).
+Epoch 70/200 - Train Loss: 0.000309, Val Loss: 0.000562
+  No improvement for 9 epoch(s).
+Epoch 71/200 - Train Loss: 0.000313, Val Loss: 0.000513
+  No improvement for 10 epoch(s).
+Epoch 72/200 - Train Loss: 0.000305, Val Loss: 0.000536
+  No improvement for 11 epoch(s).
+Epoch 73/200 - Train Loss: 0.000268, Val Loss: 0.000629
+  No improvement for 12 epoch(s).
+Epoch 74/200 - Train Loss: 0.000273, Val Loss: 0.000498
+  No improvement for 13 epoch(s).
+Epoch 75/200 - Train Loss: 0.000278, Val Loss: 0.000490
+  No improvement for 14 epoch(s).
+Epoch 76/200 - Train Loss: 0.000273, Val Loss: 0.000736
+  No improvement for 15 epoch(s).
+Epoch 77/200 - Train Loss: 0.000274, Val Loss: 0.000492
+  No improvement for 16 epoch(s).
+Epoch 78/200 - Train Loss: 0.000271, Val Loss: 0.000500
+  No improvement for 17 epoch(s).
+Epoch 79/200 - Train Loss: 0.000274, Val Loss: 0.000508
+  No improvement for 18 epoch(s).
+Epoch 80/200 - Train Loss: 0.000273, Val Loss: 0.000520
+  No improvement for 19 epoch(s).
+Epoch 81/200 - Train Loss: 0.000269, Val Loss: 0.000532
+  No improvement for 20 epoch(s).
+Epoch 82/200 - Train Loss: 0.000269, Val Loss: 0.000497
+  No improvement for 21 epoch(s).
+Epoch 83/200 - Train Loss: 0.000268, Val Loss: 0.000543
+  No improvement for 22 epoch(s).
+Epoch 84/200 - Train Loss: 0.000251, Val Loss: 0.000505
+  No improvement for 23 epoch(s).
+Epoch 85/200 - Train Loss: 0.000251, Val Loss: 0.000488
+  No improvement for 24 epoch(s).
+Epoch 86/200 - Train Loss: 0.000255, Val Loss: 0.000502
+  No improvement for 25 epoch(s).
+Epoch 87/200 - Train Loss: 0.000251, Val Loss: 0.000496
+  No improvement for 26 epoch(s).
+Epoch 88/200 - Train Loss: 0.000253, Val Loss: 0.000509
+  No improvement for 27 epoch(s).
+Epoch 89/200 - Train Loss: 0.000250, Val Loss: 0.000527
+  No improvement for 28 epoch(s).
+Epoch 90/200 - Train Loss: 0.000250, Val Loss: 0.000489
+  No improvement for 29 epoch(s).
+Epoch 91/200 - Train Loss: 0.000252, Val Loss: 0.000484
+  Validation loss improved; model saved.
+Epoch 92/200 - Train Loss: 0.000249, Val Loss: 0.000487
+  No improvement for 1 epoch(s).
+Epoch 93/200 - Train Loss: 0.000250, Val Loss: 0.000483
+  Validation loss improved; model saved.
+Epoch 94/200 - Train Loss: 0.000249, Val Loss: 0.000487
+  No improvement for 1 epoch(s).
+Epoch 95/200 - Train Loss: 0.000248, Val Loss: 0.000487
+  No improvement for 2 epoch(s).
+Epoch 96/200 - Train Loss: 0.000249, Val Loss: 0.000525
+  No improvement for 3 epoch(s).
+Epoch 97/200 - Train Loss: 0.000247, Val Loss: 0.000500
+  No improvement for 4 epoch(s).
+Epoch 98/200 - Train Loss: 0.000245, Val Loss: 0.000490
+  No improvement for 5 epoch(s).
+Epoch 99/200 - Train Loss: 0.000250, Val Loss: 0.000499
+  No improvement for 6 epoch(s).
+Epoch 100/200 - Train Loss: 0.000247, Val Loss: 0.000504
+  No improvement for 7 epoch(s).
+Epoch 101/200 - Train Loss: 0.000246, Val Loss: 0.000499
+  No improvement for 8 epoch(s).
+Epoch 102/200 - Train Loss: 0.000246, Val Loss: 0.000488
+  No improvement for 9 epoch(s).
+Epoch 103/200 - Train Loss: 0.000243, Val Loss: 0.000497
+  No improvement for 10 epoch(s).
+Epoch 104/200 - Train Loss: 0.000245, Val Loss: 0.000489
+  No improvement for 11 epoch(s).
+Epoch 105/200 - Train Loss: 0.000236, Val Loss: 0.000486
+  No improvement for 12 epoch(s).
+Epoch 106/200 - Train Loss: 0.000235, Val Loss: 0.000486
+  No improvement for 13 epoch(s).
+Epoch 107/200 - Train Loss: 0.000236, Val Loss: 0.000491
+  No improvement for 14 epoch(s).
+Epoch 108/200 - Train Loss: 0.000237, Val Loss: 0.000484
+  No improvement for 15 epoch(s).
+Epoch 109/200 - Train Loss: 0.000235, Val Loss: 0.000484
+  No improvement for 16 epoch(s).
+Epoch 110/200 - Train Loss: 0.000236, Val Loss: 0.000490
+  No improvement for 17 epoch(s).
+Epoch 111/200 - Train Loss: 0.000236, Val Loss: 0.000527
+  No improvement for 18 epoch(s).
+Epoch 112/200 - Train Loss: 0.000237, Val Loss: 0.000493
+  No improvement for 19 epoch(s).
+Epoch 113/200 - Train Loss: 0.000235, Val Loss: 0.000501
+  No improvement for 20 epoch(s).
+Epoch 114/200 - Train Loss: 0.000233, Val Loss: 0.000507
+  No improvement for 21 epoch(s).
+Epoch 115/200 - Train Loss: 0.000236, Val Loss: 0.000489
+  No improvement for 22 epoch(s).
+Epoch 116/200 - Train Loss: 0.000230, Val Loss: 0.000489
+  No improvement for 23 epoch(s).
+Epoch 117/200 - Train Loss: 0.000229, Val Loss: 0.000485
+  No improvement for 24 epoch(s).
+Epoch 118/200 - Train Loss: 0.000230, Val Loss: 0.000485
+  No improvement for 25 epoch(s).
+Epoch 119/200 - Train Loss: 0.000229, Val Loss: 0.000485
+  No improvement for 26 epoch(s).
+Epoch 120/200 - Train Loss: 0.000230, Val Loss: 0.000484
+  No improvement for 27 epoch(s).
+Epoch 121/200 - Train Loss: 0.000230, Val Loss: 0.000494
+  No improvement for 28 epoch(s).
+Epoch 122/200 - Train Loss: 0.000229, Val Loss: 0.000484
+  No improvement for 29 epoch(s).
+Epoch 123/200 - Train Loss: 0.000229, Val Loss: 0.000493
+  No improvement for 30 epoch(s).
+Epoch 124/200 - Train Loss: 0.000230, Val Loss: 0.000491
+  No improvement for 31 epoch(s).
+Epoch 125/200 - Train Loss: 0.000228, Val Loss: 0.000492
+  No improvement for 32 epoch(s).
+Epoch 126/200 - Train Loss: 0.000228, Val Loss: 0.000500
+  No improvement for 33 epoch(s).
+Epoch 127/200 - Train Loss: 0.000226, Val Loss: 0.000487
+  No improvement for 34 epoch(s).
+Epoch 128/200 - Train Loss: 0.000226, Val Loss: 0.000489
+  No improvement for 35 epoch(s).
+
+Early stopping triggered after 128 epochs without improvement.
+
+Validation Set Performance:
+Water: R² = 0.9999, NRMSE = 0.0024
+Carbon Dioxide: R² = 0.9997, NRMSE = 0.0025
+Methane: R² = 0.9991, NRMSE = 0.0086
+Ammonia: R² = 0.9998, NRMSE = 0.0038
+Methanol: R² = 0.9986, NRMSE = 0.0104
+Ethylene: R² = 0.9520, NRMSE = 0.0643
+Acetone: R² = 0.9992, NRMSE = 0.0084
+Isoprene: R² = 0.9991, NRMSE = 0.0090
+Acetaldehyde: R² = 0.9995, NRMSE = 0.0063
+Ethanol: R² = 0.9955, NRMSE = 0.0189
+
+Test Set Performance:
+Water: R² = 0.9999, NRMSE = 0.0026
+Carbon Dioxide: R² = 0.9997, NRMSE = 0.0030
+Methane: R² = 0.9990, NRMSE = 0.0091
+Ammonia: R² = 0.9999, NRMSE = 0.0035
+Methanol: R² = 0.9987, NRMSE = 0.0101
+Ethylene: R² = 0.9538, NRMSE = 0.0627
+Acetone: R² = 0.9991, NRMSE = 0.0087
+Isoprene: R² = 0.9991, NRMSE = 0.0089
+Acetaldehyde: R² = 0.9995, NRMSE = 0.0066
+Ethanol: R² = 0.9967, NRMSE = 0.0171
+
+
+###############################################################################
+Science Cluster
+Job 6301758 for user 'jlandsman'
+Finished at: Thu Jun 19 22:16:10 CEST 2025
+
+Job details:
+============
+
+Name                : pretrain_mlp.sh
+User                : jlandsman
+Partition           : csedu
+Nodes               : cn47
+Cores               : 6
+State               : COMPLETED
+Submit              : 2025-06-19T22:08:34
+Start               : 2025-06-19T22:08:34
+End                 : 2025-06-19T22:16:10
+Reserved walltime   : 12:00:00
+Used walltime       : 00:07:36
+Used CPU time       : 00:07:45 (efficiency: 17.00%)
+% User (Computation): 98.12%
+% System (I/O)      :  1.88%
+Mem reserved        : 15G
+Max Mem used        : 14.89G (cn47)
+Max Disk Write      : 0.00  (cn47)
+Max Disk Read       : 10.24K (cn47)
+
